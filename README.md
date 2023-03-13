@@ -39,5 +39,5 @@ En  https://infra.datos.gob.ar/catalog/modernizacion/dataset/7/distribution/7.3/
 
 ## Sección3: Preguntas Generales.
 Aqui hay preguntas de  Estadística, Machine learning y cs. de datos en general. 
-1: Seleccionar todas las opciones que consideres correctas
-2-4: Explicar si esta afirmación es correcta, en un par de oraciones justificar si es correcta o no
+- [ ] 1: Seleccionar todas las opciones que consideres correctas.
+- [ ] 2-4: Explicar si esta afirmación es correcta y en un par de oraciones justificar si es correcta o no.
