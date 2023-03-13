@@ -28,9 +28,16 @@ El trámite  consta de 4 pasos
 
 ### Metadata
 
-denuncias-defensa-del-consumidor.csv  Los datos corresponden a los años 2019-2022 y consta de id de la denuncia, fecha de creación de la misma, motivo de la denuncia y rubro.
+En **denuncias-defensa-del-consumidor.csv**  están los datos que corresponden a los años 2019-2022 y consta de id de la denuncia, fecha de creación de la misma, motivo de la denuncia y rubro.
 
-## Sección2: Preguntas Generales.
+## Sección2: Contexto
+
+Dentro del equipo de Marketing querien generar acciones dependiendo de la geolocalización de los usuarios y para ello quieren dimensionar algunas audiencias externas
+
+### Metadata
+En  https://infra.datos.gob.ar/catalog/modernizacion/dataset/7/distribution/7.3/download/departamentos.json están los datos  de los distintos partidos y departamentos del pais.  
+
+## Sección3: Preguntas Generales.
 Aqui hay preguntas de  Estadística, Machine learning y cs. de datos en general. 
 1: Seleccionar todas las opciones que consideres correctas
 2-4: Explicar si esta afirmación es correcta, en un par de oraciones justificar si es correcta o no
