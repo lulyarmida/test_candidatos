@@ -20,15 +20,10 @@ El trámite  consta de 4 pasos
 
 2. Datos Personales
 
-3.  Tipo de denuncia
-
- *Categoría (Bienes/Servicios)
- *Rubro (detallado en el archivo)
- *Sub rubro (no está el detalle en la información proporcionada por defensa del consumidor)
+3.  Tipo de denuncia:  *Categoría (Bienes/Servicios)  *Rubro (detallado en el archivo) *Sub rubro (no está el detalle en la información proporcionada por defensa del consumidor)
 
 4. Validación
 
 Metadata
 
 denuncias-defensa-del-consumidor.csv  Los datos corresponden a los años 2019-2022 y consta de id de la denuncia, fecha de creación de la misma, motivo de la denuncia y rubro.
-
