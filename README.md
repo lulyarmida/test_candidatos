@@ -1,17 +1,19 @@
-# test_candidatos
+# Test Candidatos
+
+## Objetivo 
+
 El objetivo de este ejercicio, es evaluar la habilidad técnica en ciencia de datos de l@s candidat@s.
 El análisis debe ser entregado en un archivo .ipynb  usando R o Python (preferentemente Python).
 
 Los entregables del ejercicio son :
 
-Form completo con las respuetas: 
-El notebook de jupyter/colab con el análisis realizado. La audiencia de este notebook es de "pares" (i.e otros científicos de datos).
+- [ ] Form  https://forms.gle/uBxidc2NDcfu7GwX7 completo con las respuetas  
+- [ ] Notebook de jupyter/colab con el análisis realizado. La audiencia de este notebook es de "pares" (i.e otros científicos de datos).
+
+**Se dispondrán de 5 días hábiles para realizar el ejercicio a partir de la fecha de recepción del mismo.**
 
 
-Se dispondrán de 5 días hábiles para realizar el ejercicio a partir de la fecha de recepción del mismo.
-
-
-Contexto
+## Sección1: Contexto
 
 Una empresa X desea entender donde se concentran la mayor cantidad de denuncias al consumidor en el mercado  para poder desarrollar una estrategia de comunicación acorde 
 El trámite  consta de 4 pasos
@@ -24,6 +26,11 @@ El trámite  consta de 4 pasos
 
 4. Validación
 
-Metadata
+### Metadata
 
 denuncias-defensa-del-consumidor.csv  Los datos corresponden a los años 2019-2022 y consta de id de la denuncia, fecha de creación de la misma, motivo de la denuncia y rubro.
+
+## Sección2: Preguntas Generales.
+Aqui hay preguntas de  Estadística, Machine learning y cs. de datos en general. 
+1: Seleccionar todas las opciones que consideres correctas
+2-4: Explicar si esta afirmación es correcta, en un par de oraciones justificar si es correcta o no
